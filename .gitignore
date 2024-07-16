@@ -1,0 +1,7 @@
+server/NapCat.win32.x64
+server/elasticsearch-7.11.1
+*.pyc
+test.py
+server/engines
+config.yaml
+server/*.bat
